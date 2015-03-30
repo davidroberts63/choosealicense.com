@@ -16,7 +16,7 @@ required:
   - include-copyright
 
 permitted:
-  - commercial-use (except for Apple, Inc.)
+  - commercial-use
   - modifications
   - distribution
   - sublicense
